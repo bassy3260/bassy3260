@@ -1,7 +1,7 @@
 ## Hi bassy 👋
 ![bassy3260's github stats](https://github-readme-stats.vercel.app/api?username=bassy3260&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassy3260&langs_count=8)](https://github.com/bassy3260/github-readme-stats)
-[![Solved.ac bassy3260](http://mazassumnida.wtf/api/v2/generate_badge?boj=bassy3260)](https://solved.ac/bassy3260/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bassy3260)](https://solved.ac/bassy3260)
 ## 🌱 I’m currently learning ...
 + Algorithms
 + Web Programming
