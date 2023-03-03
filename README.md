@@ -11,7 +11,7 @@
 + Mobile Progrmming
 ## 📫 How to reach me ...
 - E-mail: bassy3260@naver.com / bassy3260@gmail.com
-- Blog: [bassy-study.tistory.com](https://bassy-study.tistory.com/)
+- Blog: https://velog.io/@bassy3260 [bassy-study.tistory.com](https://bassy-study.tistory.com/)
 ## Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=jAVA&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 ## Front-end
