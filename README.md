@@ -8,7 +8,7 @@
   + Front-end
   + Back-end
   + DataBase
-+ Mobile Progrmming
++ Mobile Programming
 ## 📫 How to reach me ...
 - E-mail: bassy3260@naver.com / bassy3260@gmail.com
 - Blog: https://velog.io/@bassy3260
