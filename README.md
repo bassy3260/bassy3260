@@ -15,6 +15,7 @@
   [![Naver](https://img.shields.io/badge/bassy3260@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:bassy3260@naver.com)
   [![Gmail](https://img.shields.io/badge/bassy3260@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:bassy3260@gmail.com)
   [![Velog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@bassy3260)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bassy3260)
 
 ---
 
@@ -23,10 +24,11 @@
  
 | 구분 | 기관 / 회사 | 내용 | 기간 |
 | :---: | :--- | :--- | :---: |
-| 🏕️ 부트캠프 | 삼성 청년 SW·AI 아카데미 (SSAFY 14기) | JAVA 코딩 트랙 · 웹 프로젝트 4회 · AI 특화 교육 | 2025.07 ~ 2026.06 |
-| 💼 경력 | (주)엠투코리아 | 주임연구원 · 웹 FullStack 개발 (Spring Boot, Vue.js2) | 2023.08 ~ 2025.02 |
-| 🏕️ 부트캠프 | 그린컴퓨터아카데미 | 자바 & 스프링 프레임워크 개발자 양성과정 | 2023.03 ~ 2023.07 |
-| 🎓 대학 | 경상국립대학교 | 컴퓨터과학전공 (3.64 / 4.5) | 2019.03 ~ 2023.02 |
+| 부트캠프 | 현대차그룹 K-뉴딜 아카데미 HINT 임베디드 AI(SW) 과정 | 모빌리티 임베디드 SW, 딥러닝 AI | 2026.07 ~ 2026.10 |
+| 부트캠프 | 삼성 청년 SW·AI 아카데미 (SSAFY 14기) | JAVA 코딩 트랙 · 웹 프로젝트 4회 · AI 특화 교육 | 2025.07 ~ 2026.06 |
+| 경력 | (주)엠투코리아 | 주임연구원 · 웹 FullStack 개발 (Spring Boot, Vue.js2) | 2023.08 ~ 2025.02 |
+| 부트캠프 | 그린컴퓨터아카데미 | 자바 & 스프링 프레임워크 개발자 양성과정 | 2023.03 ~ 2023.07 |
+| 대학 | 경상국립대학교 | 컴퓨터과학전공 (3.64 / 4.5) | 2019.03 ~ 2023.02 |
  
 ---
  
