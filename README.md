@@ -15,7 +15,7 @@
   [![Naver](https://img.shields.io/badge/bassy3260@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:bassy3260@naver.com)
   [![Gmail](https://img.shields.io/badge/bassy3260@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:bassy3260@gmail.com)
   [![Velog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@bassy3260)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/bassy3260](https://www.linkedin.com/in/%EC%84%9C%EC%98%81-%EC%9B%90-ab2899375/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%84%9C%EC%98%81-%EC%9B%90-ab2899375/)
 
 ---
 
